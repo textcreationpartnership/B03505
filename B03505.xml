@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the Lord Gray. Against the Laird of Pourie.</title>
+            <author>Gray, Patrick, Baron, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03505</idno>
+            <idno type="STC">Wing G1623B</idno>
+            <idno type="STC">ESTC R177639</idno>
+            <idno type="EEBO-CITATION">52211838</idno>
+            <idno type="OCLC">ocm 52211838</idno>
+            <idno type="VID">175688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175688)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2746:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the Lord Gray. Against the Laird of Pourie.</title>
+                  <author>Gray, Patrick, Baron, fl. 1695.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. [4] is blank.</note>
+                  <note>Concerns a dispute between Patrick Gray and Thomas Fothringham of Powrie.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gray, Patrick, --  Baron, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Fothringham, Thomas, --  of Powrie, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Fishery law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175688:1"/>
+            <head>INFORMATION FOR The Lord <hi>Gray.</hi> AGAINST The Laird of <hi>Pourie.</hi>
+            </head>
+            <p>THE Laird of <hi>Pourie</hi> hath thought fit to proteſt againſt the Lords of Seſſion, and trouble the Eſtates of Parliament for remeid of Law in one of the eaſieſt and plaineſt caſes that poſſibly could occur, and for its importance unworthie of the Trouble of this Honourable Court, and which is ſhortly thus, The Lord <hi>Gray</hi> in <hi>February</hi> 1666, diſpones to <hi>Pourie</hi> for the ſumm of 21000 Merks the <hi>Craige of</hi> Brughtie, <hi>with the Salmond-Fiſhing, Syze-Fiſh, and other Fiſhings belonging thereto, and oblieges him to infeft</hi> Pourie <hi>in the foreſaid Craige with the Fiſhings; and to warrand this Infeftment at all hands.</hi> And <hi>Pourie</hi> was thereupon Infeft under the great Seall, and entered in poſſeſſion accordingly.</p>
+            <p>But <hi>Pourie</hi> exacting the Syze fiſh accuſtomed to be payed, with more then ordinary Rigour, provocks the Earl of <hi>Panmure</hi> to whoſe Lands four of the Boats lyable in the Syze fiſh pertained, to raiſe Declarator of Immunity, and tho that <hi>Pourie</hi> did likewayes raiſe a Declarator of Servitude on his part; Yet <hi>Panmure</hi> prevails and is aſſoilied, Whereupon <hi>Pourie</hi> purſues the Lord <hi>Gray</hi> upon his <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Syze fiſh of the ſaid four Boats, And the Lords having heard both parties, did moſt juſtly find almoſt in one voice, that the foreſaid pretended Eviction was no ground of Recourſe. Againſt which Sentence <hi>Pourie</hi> proteſts, and now applyes to the Parliament for Remeid of Law.</p>
+            <p>And for the Parliaments better Information, and the ſatisfaction of all men in this caſe. It is to be adverted. <hi>1mo.</hi> That all payed by <hi>Pourie</hi> for the Craige of <hi>Brughtie,</hi> with the Salmond Fiſhing, Syze Fiſh, &amp; other Fiſhings there<g ref="char:EOLhyphen"/>to belonging, was 21000 Merks, whereof there was a 1000 Merks payed to a certain Perſon to procure to <hi>Pourie</hi> this bargain; So that all that was payed to the Lord <hi>Gray</hi> was neat 20000 Merks, and for which he got of Rentalled Eſtate 1200 Merks, and a Hogſhead of Wine for the Salmond Fiſhing, and 230 Merks, with a Barrel of Salmond of a Few duty, and this by and attour the Syze Fiſh, which is the ſubject of this Contraverſie.</p>
+            <p n="2">
+               <hi>2do.</hi> That the Syſe Fiſh is not expreſly mentioned in the Old Rights: But the Lord <hi>Gray</hi> and his Predeceſſors having come in uſe to uplift them, <hi>Pourie</hi> would have them Inſert in his Diſpoſition, tho there was no more intended by the bargain, but that <hi>Powrie</hi> ſhould have the Craig of <hi>Brughtie,</hi> with the Sal<g ref="char:EOLhyphen"/>mond Fiſhing, and other Fiſhing, and pertinents thereto belonging. <hi>3tio.</hi> To Evince that the Syze Fiſh was only expreſt in the Diſpoſition made to <hi>Pourie</hi> as a pertinent, and with the hazard of its belonging or not belonging, is evident from the rental, the Rule of the Barrony, whereof the Syze-Fiſh makes no Artickle, becauſe it was in effect only diſponed as a pertinent poſſeſt, but without any aſſurance of Right. And <hi>4to.</hi> It is to be adverted, that the
+<pb n="2" facs="tcp:175688:2"/>whole Syze Fiſh of the Four Boats is not in truth worth more than <hi>fourtie Merks,</hi> tho <hi>Pourie</hi> Lybels them at 400, and for to Prepoſſeſs the Members of Parliament, he has Printed and Diſperſed one of his Old Informations before the Lords, which the Lords did moſt Juſtly Judge to be of no moment; And therefore to ſuſtain the Lords Sentence, The Lord <hi>Gray</hi> alledges.</p>
+            <p>
+               <hi>Firſt,</hi> That the Syze fiſh not having been principally diſponed, but only ad<g ref="char:EOLhyphen"/>jected as a Pertinent without any expreſs Limitation, either as to the number of the Fiſh or of the Boats, The Eviction or rather the declaring any of the Boats free can never be a ground of Recourſe of Warrandice, &amp; the Reaſon is, Becauſe that Warrandice is given and intended for that which is principally and cer<g ref="char:EOLhyphen"/>tainly diſponed, but was never yet conſtrued to extend to what was only diſ<g ref="char:EOLhyphen"/>poned <hi>Acceſſorie</hi> by way of Pertinent, and the <hi>Ratio Rationis,</hi> is becauſe what is diſponed <hi>Acceſſorie,</hi> and by way of Pertinent, is only diſponed with the hazard, and in the Suppoſition, That if it be pertinent well and good, and if not, the Diſponer is not lyable, becauſe he diſponed it only as a Pertinent, and this is clear in the Ordinary caſe of Mens diſponing Lands with the Perti<g ref="char:EOLhyphen"/>nents, or with Moſs, Muirs, Fiſhings, and other Pertinents, where it is moſt certain that as to all theſe Pertinents diſponed only Acceſſorie and not principallie, the Diſponer is no farder lyable then to make over his Title, and if any of them be found not to be pertinent the Diſponer is free, becauſe all intended was to diſpon what was pertinent, and as ſuch and no farder, which ground being applyed to the Caſe in hand; It is evident that the <hi>Syze-fiſh</hi> in the Lord <hi>Grays</hi> Diſpoſition was only diſponed Acceſſorie; And as pertinent, for the Words are plain, <hi>Viz: With the Salmond Fiſhing, Syze-Fiſh, and other Fiſhings thereto belonging, Or thereto pertinent;</hi> Which are the ſame thing, and the expreſſing of the <hi>Syze-Fiſh</hi> ſigni<g ref="char:EOLhyphen"/>fies nothing, ſince it is only diſponed as pertinent, nor can it be alledged with any colour, that the word belonging or pertinent doth only affect the words, <hi>(And other Fiſhings)</hi> immediatly preceeding, &amp; not the <hi>Syze Fiſh; For it is evident</hi> as the light, that the words <hi>belonging</hi> or pertinent doth affect, and is a qua<g ref="char:EOLhyphen"/>lification of both.</p>
+            <p>Nor can it be held for a Rule, that whatever is Diſponed expreſly, and for an onerous cauſe falls under the warrandice; Becauſe it is evident, that if any thing (tho never ſo expreſs) be only diſponed by way of pertinent. It falls no farder under the warrandice, ſave to oblidge the Diſponer, that he has not done any thing in prejudice of his Title, <hi>talis qualis,</hi> and ſuch as it is; But the true Rule of Law is, that theſe things do only fall under abſolute warrandice, which are diſponed for an onerous cauſe, principally; certainly, and abſolut<g ref="char:EOLhyphen"/>ly, and not with the qualification of <hi>pertinent,</hi> which in all ſenſe as well as Law, doth perpetually import its own hazard, and never falls under abſolute warrandice.</p>
+            <p n="2">
+               <hi>2do.</hi> For farder clearing of the undoubted ground of Law above laid down; It is to be remembred, that the <hi>Syze Fiſh</hi> are neither in the Old Rights, nor were they in the Rental of <hi>Pouries</hi> bargain, nor were they preciſely defined either as to the number of Fiſhes or Boats, but were only expreſt at <hi>Pouries</hi> de<g ref="char:EOLhyphen"/>ſire, and diſponed as <hi>belonging, or pertinent</hi> to give him a Title <hi>talis qualis,</hi> &amp; as his Author had, but no wayes to oblidge his Author in abſolute warrandice, which can never with any ſhew of Senſe or Reaſon be applyed to anything which is only diſponed as <hi>belonging or pertinent;</hi> And this is ſo certain that when ever it is intended, that any thing diſponed, as pertinent, ſhould fall under the abſolute warrandice, It is then expreſly provided, that the Diſponer ſhall warrand it to be pertinent, But if it be only diſponed as pertinent with<g ref="char:EOLhyphen"/>oute the foreſaid expreſs proviſion, then in all Law and ſenſe the words <hi>Belong<g ref="char:EOLhyphen"/>ing or pertinent</hi> are taxative qualifieing the right, and plainly importing that
+<pb n="3" facs="tcp:175688:2"/>the thing is only diſponed with the hazard and <hi>Talis qualis,</hi> as it is, which is exactly the Lord <hi>Gray</hi>'s Caſe, as to the <hi>Syze-Fiſh</hi> diſponed as <hi>pertinent, or belong<g ref="char:EOLhyphen"/>ing,</hi> as ſaid is.</p>
+            <p n="3">
+               <hi>3tio.</hi> The Caſtle of <hi>Bruchtie</hi> was diſponed with the <hi>Syze-Fiſh</hi> thereto be<g ref="char:EOLhyphen"/>longing, And to evince that the Words <hi>thereunto belonging,</hi> do affect, and qua<g ref="char:EOLhyphen"/>lifie the <hi>Syze-Fiſh,</hi> is evident from this Ground, That the <hi>Syze-Fiſh,</hi> without the ſaid Reſtriction, is indefinit vague and uncertain, which cannot poſſibly be the Subject of Warrandice, unleſs the <hi>Syze-Fiſh</hi> had been ſpecified and de<g ref="char:EOLhyphen"/>termined by the number both of Fiſh and Boats; And this is ſo certain, that if we put the Caſe, that the Diſpoſition had been of the Craig of <hi>Brughtie,</hi> with the <hi>Syze-Fiſh</hi> and no more; Muſt not all Men have underſtood it of the <hi>Syze-Fiſh thereto belonging?</hi> For otherwayes to underſtand it of all the <hi>Syze-Fiſh</hi> whatſomever, had been plainly abſurd, ſeeing then, That the <hi>Syze-Fiſh</hi> diſ<g ref="char:EOLhyphen"/>poned, muſt be underſtood taxative of the <hi>Syze-Fiſh</hi> belonging or pertaining to the Craig: With what colour of Reaſon can it be aſſerted, That the Words <hi>thereunto belonging,</hi> do not affect the Syze-Fiſh, when the <hi>Syze-Fiſh</hi> cannot be otherwayes underſtood; And therefore ſince the <hi>Syze-Fiſh</hi> were only Diſponed by the Lord <hi>Geay,</hi> as <hi>belonging or pertinent;</hi> It is evident that they were diſ<g ref="char:EOLhyphen"/>poned with the hazard, and do not fall under the Warrandice, ſpecially ſee<g ref="char:EOLhyphen"/>ing that albeit four Boats be declared free, yet there are ſix Boats yet remain<g ref="char:EOLhyphen"/>ing, which is more then ſufficient to ſuſtain the Lord <hi>Gray</hi>'s Diſpoſition; Seeing in <hi>Plain Scots,</hi> his diſponing of the Craige of <hi>Brughtie,</hi> with the <hi>Syze-Fiſh thereunto belonging,</hi> was neither leſs nor more, but with the <hi>Syze-Fiſh,</hi> whereof the Lord <hi>Gray</hi> was then in the poſſeſſion, &amp; which he was willing to diſpone as <hi>Pertinent.</hi> and tranſmit what Right he had with the hazard, and ſo can never fall under the Clauſe of abſolut Warrandice.</p>
+            <p n="4">
+               <hi>4to.</hi> And for <hi>ſuper abundance,</hi> it could be demonſtratt, (if needfull) That <hi>Pourie</hi> ſuccumbed in his Declarator againſt the Earl of <hi>Panmure</hi> through his own Default and miſmannadgement of the Proceſs, in ſo far as the Lord <hi>Gray</hi> having furniſhed the Purſuer with two old witneſſes, who would have deponed upon more as 60 years Poſſeſſion, if they had been interrogat there<g ref="char:EOLhyphen"/>on; And <hi>de facto,</hi> one of the Witneſſes; did depone upon ſixtie years Poſſeſſion, and the other concurring Witneſs having only deponed in general terms, that the Poſſeſſion had been ſince his Memorie, and <hi>Pourie</hi> having neglected to interrogate him upon particular years, albeit he was aged 80 years; Yet the Lords found that the memorie of man in general, is not to be extended above 40 or 50 years at moſt, from which 50 years 7 years of <hi>Panmures</hi> Minority being ſubſtracted, and four years that <hi>Pouerie</hi> had a Woodſet, and Poſſeſt the Lord <hi>Panmures</hi> Land, affected with the ſervitude, being alſo ſubduced upon that principal in Law, that <hi>res ſua Nemeni ſervit,</hi> which brought the Lord <hi>Gray,</hi> and his Authors Poſſeſſion to 39 years allennarly, and ſo not compleat<g ref="char:EOLhyphen"/>ing the preſcription, was the direct occaſion of <hi>Panmures</hi> Decreet of Immuni<g ref="char:EOLhyphen"/>ty; From which the Defender argues two things. <hi>1mo.</hi> That the objection was perſonal againſt the Purſuer (<hi>nam exceptiones ex perſona emptoris objectae ſi obſtant venditor de evictione ei non tenetur Leg:</hi> 27. <hi>ff: de evic:</hi>) <hi>2do.</hi> That the immunity is perſonal to the Earl as to his own proper lands, whereas the other Heritors who have no Minority, or perſonal objection againſt the pur<g ref="char:EOLhyphen"/>ſuer, are ſtill ſubject to the exaction.</p>
+            <p>But the Lord <hi>Gray</hi> refers himſelf to the plain grounds of Law and Reaſon above laid down, which he is confident are ſo ſtrong and pregnant for maintain<g ref="char:EOLhyphen"/>ing the Lords unanimous ſentence, that the Parliament will-find it was <hi>optime judicatum;</hi> And that <hi>Pourie</hi> for his groundleſs and wilful proteſting, and o<g ref="char:EOLhyphen"/>blidging the Lord <hi>Gray</hi> to ſo great expences and trouble in defending this ſo unconſiderable and trivial affair, both before the Seſſion, and now before the Honourable Court of Parliament, ought to be condemned in large expenſes.</p>
+            <pb facs="tcp:175688:3"/>
+            <pb facs="tcp:175688:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
